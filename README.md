@@ -1,4 +1,4 @@
-# Operating-System-Homework-1
+# Compiler-Homework-1
 A simple token scanner
 
 could analysis int, float and ID.
